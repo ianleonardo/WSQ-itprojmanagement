@@ -4,6 +4,10 @@ A single-page IT Project Management demo/training tool for UOB's internal IT PMO
 
 This is a demo tool, not a real UOB system — it uses a neutral "UOB IT PMO" text wordmark and a corporate blue palette only, no real UOB branding.
 
+**Live demo:** https://ianleonardo.github.io/WSQ-itprojmanagement/
+
+![Screenshot of the UOB IT PMO Kanban board](docs/screenshot.png)
+
 ## Running it
 
 There is no build step, dev server, or package manager. The entire app is one file:
