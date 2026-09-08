@@ -1,4 +1,4 @@
-# WSQ-itprojmanagement
+# IT Project Management Kanban Board
 
 A single-page IT Project Management demo/training tool for UOB's internal IT PMO: a Kanban board (Backlog / In Progress / Blocked / Done) with drag-and-drop, an Add Task modal, filtering, and email notifications via FormSubmit.
 
