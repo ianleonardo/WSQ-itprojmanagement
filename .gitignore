@@ -1,0 +1,15 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Locally-installed Claude Code skill packages (third-party, not project source)
+.agents/
+.claude/skills/
+skills-lock.json
+
+# Playwright MCP transient output
+.playwright-mcp/
